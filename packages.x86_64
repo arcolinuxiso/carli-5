@@ -84,6 +84,8 @@ plasma-meta
 kde-applications-meta
 packagekit-qt5
 sddm
+bash-completion
+partitionmanager
 
 #Calamares
 calamares
